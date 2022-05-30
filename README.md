@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prishita-s&label=Profile%20views&color=0e75b6&style=flat" alt="prishita-s" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, NLP, Cloud Computing**
 
 - 📫 How to reach me **prishitasingh2@gmail.com**
 
